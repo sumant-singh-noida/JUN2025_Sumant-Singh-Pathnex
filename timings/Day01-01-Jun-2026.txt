@@ -1,0 +1,11 @@
+        Today Task :
+2 Hours - Online session in the Morning
+1 Hour - AWS
+2 Hours - EC2 Install
+1 Hour - Git
+
+        Tommorrow task:
+Will learn Linux
+Basic Linux installation
+Ec2 Connect
+Git hub connection
