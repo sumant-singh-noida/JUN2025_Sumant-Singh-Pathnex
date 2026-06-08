@@ -1,0 +1,1 @@
+ Today we process management command , memory storage command  in linux .
